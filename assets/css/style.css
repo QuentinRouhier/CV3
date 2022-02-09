@@ -36,6 +36,17 @@ h2{
     font-style: oblique
 }
 
+#sectionAbout{
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+#sectionCompetance{
+    padding-top: 20px;
+    padding-bottom: 20px;
+    background-color: #DCDCDC;
+}
+
 .icon-fontawsome{
     margin-top: 20px;
     color: lightyellow;
