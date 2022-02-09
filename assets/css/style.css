@@ -28,7 +28,7 @@ h1{
     color: silver;
 }
 
-h2{
+header h2{
     padding-top: 10px;
     color: silver;
     font-size: 25px;
@@ -36,7 +36,11 @@ h2{
     font-style: oblique
 }
 
-#sectionAbout{
+#sectionCompetance h2{
+    text-align: center;
+}
+
+#sectionAbout, #sectionParcours {
     padding-top: 20px;
     padding-bottom: 20px;
 }
@@ -45,6 +49,21 @@ h2{
     padding-top: 20px;
     padding-bottom: 20px;
     background-color: #DCDCDC;
+}
+
+.startFrontEnd{
+    font-weight: 400;
+    color:  #3498DB;
+}
+
+.marginBulleCompetences{
+    margin-top: 40px;
+}
+
+.bulleCompetences{
+    background-color: white;
+    padding: 20px;
+    border-radius: 30px;
 }
 
 .icon-fontawsome{
