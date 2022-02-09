@@ -12,11 +12,11 @@ nav{
     background:rgba(20, 20, 20, 0.959);
 }
 
-nav .nav-link {
+.navbar-light .navbar-nav .nav-link {
     margin-right: 20px;
     cursor:pointer;
     padding: 13px 20px;
-    color: rgb(142, 245, 228);
+    color: silver;
     border:none;
     font-size: 15px;
     outline:none;
