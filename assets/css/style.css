@@ -94,16 +94,25 @@ header h2{
 .starFrontEnd{
     font-weight: 400;
     color:  #3498DB;
+    overflow-wrap: break-word;
 }
 
 .starBackEnd{
     font-weight: 400;
     color:  #51c9a1;
+    overflow-wrap: break-word;
 }
 
 .starDevops{
     font-weight: 400;
-    color:  #f0ae57;
+    color:  #f0a157;
+    overflow-wrap: break-word;
+}
+
+.starTools{
+    font-weight: 400;
+    color:  #ec4141;
+    overflow-wrap: break-word;
 }
 
 .marginBulleCompetences{
