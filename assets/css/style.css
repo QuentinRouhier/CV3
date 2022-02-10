@@ -82,6 +82,7 @@ header h2{
     background-color: #ffffffde;
     color: #607b8d;
     text-align: center;
+    overflow-wrap: break-word;
 }
 
 #contactBulle3{
