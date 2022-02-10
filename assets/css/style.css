@@ -51,9 +51,19 @@ header h2{
     background-color: #DCDCDC;
 }
 
-.startFrontEnd{
+.starFrontEnd{
     font-weight: 400;
     color:  #3498DB;
+}
+
+.starBackEnd{
+    font-weight: 400;
+    color:  #51c9a1;
+}
+
+.starDevops{
+    font-weight: 400;
+    color:  #f0ae57;
 }
 
 .marginBulleCompetences{
