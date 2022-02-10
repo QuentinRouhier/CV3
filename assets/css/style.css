@@ -36,7 +36,7 @@ header h2{
     font-style: oblique
 }
 
-#sectionCompetance h2{
+#sectionCompetance h2, #sectionContact h2{
     text-align: center;
 }
 
@@ -49,6 +49,45 @@ header h2{
     padding-top: 20px;
     padding-bottom: 20px;
     background-color: #DCDCDC;
+}
+
+#sectionContact{
+    padding-top: 20px;
+    padding-bottom: 20px;
+    background-color: #DCDCDC;
+}
+
+.contactBulle{
+    border-radius: 10px;
+    padding-top: 15px;
+}
+
+#contactBulle1 a,#contactBulle3 a{
+    text-decoration: none;
+    color: #ffffffde;
+}
+
+#contactBulle2 a{
+    text-decoration: none;
+    color: #607b8d;
+}
+
+#contactBulle1{
+    background-color: #607b8d;
+    color: #ffffffde;
+    text-align: center;
+}
+
+#contactBulle2{
+    background-color: #ffffffde;
+    color: #607b8d;
+    text-align: center;
+}
+
+#contactBulle3{
+    background-color: #607b8d;
+    color: #ffffffde;
+    text-align: center;
 }
 
 .starFrontEnd{
