@@ -32,6 +32,10 @@ header h2{
     font-style: oblique
 }
 
+#sectionParcours h3{
+    font-size: 1.25rem;
+}
+
 #sectionCompetance h2, #sectionContact h2, #sectionAbout h2{
     text-align: center;
 }
