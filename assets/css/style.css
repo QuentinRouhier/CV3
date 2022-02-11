@@ -76,7 +76,7 @@ header h2{
     background-color: #607b8d;
     color: #ffffffde;
     text-align: center;
-    box-shadow: 1px 1px 12px #555;
+    box-shadow: .6px .6px 3px #555;
 }
 
 #contactBulle2{
@@ -84,14 +84,14 @@ header h2{
     color: #607b8d;
     text-align: center;
     overflow-wrap: break-word;
-    box-shadow: 1px 1px 12px #555;
+    box-shadow: .6px .6px 3px #555;
 }
 
 #contactBulle3{
     background-color: #607b8d;
     color: #ffffffde;
     text-align: center;
-    box-shadow: 1px 1px 12px #555;
+    box-shadow: .6px .6px 3px #555;
 }
 
 .starFrontEnd{
@@ -151,7 +151,7 @@ header h2{
 .bulleCompetences{
     padding: 20px;
     border-radius: 30px;
-    box-shadow: 1px 1px 12px #555;
+    box-shadow: .6px .6px 3px #555;
 }
 
 .backgroudBulleCompetences{
