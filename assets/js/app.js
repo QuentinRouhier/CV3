@@ -21,3 +21,10 @@ const observer = new IntersectionObserver(handleIntersect, options)
 document.querySelectorAll('.reveal').forEach(function (r) {
     observer.observe(r)
 })
+
+document.querySelectorAll('.nav-link').forEach(function (r) {
+    r.addEventListener('click', function(){
+        document.querySelector('#navbarSupportedContent').classList.remove("show")
+        
+    })
+})
