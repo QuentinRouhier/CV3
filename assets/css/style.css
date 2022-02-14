@@ -62,7 +62,7 @@ header h2{
     padding-top: 15px;
 }
 
-#contactBulle1 a,#contactBulle3 a{
+#contactBulle1 a{
     text-decoration: none;
     color: #ffffffde;
 }
@@ -77,6 +77,7 @@ header h2{
     color: #ffffffde;
     text-align: center;
     box-shadow: .6px .6px 3px rgb(201, 201, 201);
+    overflow-wrap: break-word;
 }
 
 #contactBulle2{
@@ -84,13 +85,6 @@ header h2{
     color: #607b8d;
     text-align: center;
     overflow-wrap: break-word;
-    box-shadow: .6px .6px 3px rgb(201, 201, 201);
-}
-
-#contactBulle3{
-    background-color: #607b8d;
-    color: #ffffffde;
-    text-align: center;
     box-shadow: .6px .6px 3px rgb(201, 201, 201);
 }
 
